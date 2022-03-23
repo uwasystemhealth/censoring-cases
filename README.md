@@ -1,4 +1,4 @@
-# Weibull Modelling Case-Study for Ground Engaging Tools
+# Weibull Modelling Case-Studies
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
