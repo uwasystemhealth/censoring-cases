@@ -1,4 +1,4 @@
-# Weibull Modelling Case-Studies
+# Censored Dataset Analysis Case-Studies
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
